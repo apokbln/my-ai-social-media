@@ -77,7 +77,7 @@ Uygulama modüler bir web mimarisi ile geliştirilmiştir:
 
 ```bash
 git clone https://github.com/apokbln/my-ai-social-media.git
-cd proje-adi
+cd my-ai-social-media
 npm install
 npm run dev
 ```
