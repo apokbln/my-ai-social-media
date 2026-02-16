@@ -76,7 +76,7 @@ Uygulama modüler bir web mimarisi ile geliştirilmiştir:
 ## 🛠️ Kurulum
 
 ```bash
-git clone https://github.com/apokbln/proje-adi.git
+git clone https://github.com/apokbln/my-ai-social-media.git
 cd proje-adi
 npm install
 npm run dev
