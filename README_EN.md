@@ -73,8 +73,8 @@ The application follows a modular web architecture:
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/apokbln/project-name.git
-cd project-name
+git clone https://github.com/apokbln/my-ai-social-media.git
+cd my-ai-social-media
 npm install
 npm run dev
 ```
@@ -120,4 +120,5 @@ The main goal of this project is to help social media users:
 ## 👨‍💻 Developer
 
 Abdullah Kablan
+
 Software Engineering Student
